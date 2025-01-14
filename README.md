@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/JsZCPDRN)
 # Intro to Xv6
 Xv6 is a teaching operating system developed in the summer of 2006 for MIT's operating systems course. Below,  I have implemented a few system calls and tested scheduling policies in the give Xv6 source code. The user needs to install the Xv6 and can follow the below provided guide for the same.
 https://pdos.csail.mit.edu/6.S081/2024/tools.html
